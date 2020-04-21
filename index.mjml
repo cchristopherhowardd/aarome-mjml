@@ -2,14 +2,10 @@
   <mj-head>
     <mj-title>American Academy in Rome Emergency Fund</mj-title>
     <mj-font name="Lustria" href="https://fonts.googleapis.com/css?family=Lustria" />
-    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
 
     <mj-attributes>
       <mj-all padding="0" margin="0" />
-      <mj-class name="italic" font-style="italic" />
     </mj-attributes>
-
-
 
     <mj-style>
       .column {
@@ -65,8 +61,6 @@
         padding-left: 40px;
       }
 
-
-
       .small-text div {
         font-family: Arial, sans-serif !important;
         font-size: 16px !important;
@@ -90,12 +84,7 @@
         padding: 0;
         margin: 0;
       }
-    </mj-style>
 
-    <mj-style inline="inline">
-      .test {
-        color: blue !important;
-      }
     </mj-style>
 
   </mj-head>
@@ -157,15 +146,18 @@
           </mj-raw>
           President and CEO</mj-text>
         <mj-text css-class="body-text" font-family="Lustria">
+      </mj-column>
+    </mj-section>
 
+    <mj-section>
+      <mj-column>
+        <mj-image href="https://support.aarome.org/emergency-fund" src="https://s3-eu-west-1.amazonaws.com/cdn.aarome.org/html-emails/images/042020-donate.png" width="160px" height="auto" border="1px solid black"></mj-image>
       </mj-column>
     </mj-section>
 
     <mj-section css-class="section">
       <mj-column>
-
         <mj-text css-class="caption padding-30-top">
-
           <mj-raw>
             Images:
             1. Guest with <em>Conversations/Conversazioni</em> speakers Yto Barrada and
@@ -180,7 +172,6 @@
               Helps</em> for&nbsp;<em>Cinque Mostre</em>, February 2020 (photo: Giorgio
             Benni)
           </mj-raw>
-
         </mj-text>
       </mj-column>
     </mj-section>
@@ -195,11 +186,9 @@
       <mj-column css-class="">
         <mj-image href="https://support.aarome.org/emergency-fund" src="https://s3-eu-west-1.amazonaws.com/cdn.aarome.org/html-emails/images/042020-aar-125.png"></mj-image>
       </mj-column>
-
-      </mj-column>
     </mj-section>
 
-    <mj-section css-class="padding-30-top">
+    <!-- <mj-section css-class="padding-30-top">
       <mj-column>
 
         <mj-image href="https://" src="https://support.aarome.org/image/american-academy-in-rome/social-facebook.png" width="20px" height="auto" padding-left: "10px" css-class="align-left"></mj-image>
@@ -222,12 +211,7 @@
         <mj-image href="https://" src="https://support.aarome.org/image/american-academy-in-rome/social-shop.png" width="20px" height="auto" padding-left: "10px" css-class="align-left"></mj-image>
 
       </mj-column>
-    </mj-section>
-
-
-
-
-
+    </mj-section> -->
 
   </mj-body>
 </mjml>
