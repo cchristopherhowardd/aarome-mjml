@@ -120,7 +120,9 @@
     <mj-section css-class="section">
       <mj-column>
         <mj-text css-class="body-text padding-50-top" font-family="Lustria">
-          Dear Friend,
+          <mj-raw>
+          Dear <img src="https://support.aarome.org/insertField.field?id=4&amp;nmode=0&amp;name=FNAME&amp;type=1135" style="cursor: move;" title="" data-runat="server" data-fieldid="4" data-attribid="0" data-searchable="0" data-fieldname="FNAME" data-fieldtype="1135" data-htmlencode="True" data-isloop="False" />,
+          </mj-raw>
         </mj-text>
 
         <mj-text css-class="body-text padding-30-top" font-family="Lustria">
