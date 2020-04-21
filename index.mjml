@@ -1,0 +1,233 @@
+<mjml>
+  <mj-head>
+    <mj-title>American Academy in Rome Emergency Fund</mj-title>
+    <mj-font name="Lustria" href="https://fonts.googleapis.com/css?family=Lustria" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+
+    <mj-attributes>
+      <mj-all padding="0" margin="0" />
+      <mj-class name="italic" font-style="italic" />
+    </mj-attributes>
+
+
+
+    <mj-style>
+      .column {
+        margin: 0px important;
+      }
+
+      .section div {
+        margin-left: 20px !important;
+      }
+
+      .body-text div {
+        font-size: 18px !important;
+        line-height: 1.7 !important;
+        color: #000000 !important;
+        text-align: left !important;
+        padding-right: 15% !important;
+      }
+
+      .italic {
+        font-style: italic;
+      }
+
+      a {
+        font-size: 18px !important;
+        line-height: 1.7 !important;
+        color: #f16541 !important;
+        padding-right: 0 !important;
+      }
+
+      a:hover {
+        color: #000000 !important;
+        padding-right: 0 !important;
+        text-decoration: none !important;
+      }
+
+      .padding-10-0 div {
+        padding: 10px 0;
+      }
+
+      .padding-0-15 div {
+        padding: 0 15%;
+      }
+
+      .padding-30-top div {
+        padding: 30px 0 0 0;
+      }
+
+      .padding-50-top div {
+        padding: 50px 0 0 0;
+      }
+
+      .margin-0-15 div {
+        padding-left: 40px;
+      }
+
+
+
+      .small-text div {
+        font-family: Arial, sans-serif !important;
+        font-size: 16px !important;
+        line-height: 1.2 !important;
+        color: #919191 !important;
+        text-align: left !important;
+      }
+
+      .caption div {
+        font-family: Arial, sans-serif !important;
+        font-size: 12px !important;
+        line-height: 1.4 !important;
+        color: #919191 !important;
+        text-align: left !important;
+        padding-right: 15% !important;
+
+      }
+
+      .align-left div {
+        text-align: left;
+        padding: 0;
+        margin: 0;
+      }
+    </mj-style>
+
+    <mj-style inline="inline">
+      .test {
+        color: blue !important;
+      }
+    </mj-style>
+
+  </mj-head>
+
+  <mj-body width="720px" background-color="#fff">
+
+    <mj-section css-class="padding-30-top">
+      <mj-column>
+        <mj-image href="https://www.aarome.org" src="https://s3-eu-west-1.amazonaws.com/cdn.aarome.org/html-emails/images/042020-header-2.png"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="padding-30-top">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="section">
+      <mj-column css-class="padding-10-0">
+        <mj-text css-class="small-text section">
+          April 21, 2020
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image href="https://support.aarome.org/emergency-fund" src="https://s3-eu-west-1.amazonaws.com/cdn.aarome.org/html-emails/2020-emergency-fund/042020-aar-scenes.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="section">
+      <mj-column>
+        <mj-text css-class="body-text padding-50-top" font-family="Lustria">
+          Dear Friend,
+        </mj-text>
+
+        <mj-text css-class="body-text padding-30-top" font-family="Lustria">
+          For 125 years the American Academy in Rome has created a special environment for scholars and artists, providing them with space and a community in which to create new work and explore ideas. In the face of this global health crisis, we reaffirm our mission to support artists and scholars, living and working together in Rome.</mj-text>
+
+        <mj-text css-class="body-text padding-30-top" font-family="Lustria">As many of you know, the Academy has closed and members of the community have returned safely home. Beginning in February, the Academy took a number of steps to safeguard the health and safety of residents and staff: modifying library and meal services, canceling lectures and public events, and finally, suspending all activity. Under the leadership of director John Ochsendorf, AAR staff took extraordinary care assisting Fellows with travel, housing, and other logistical issues in the face of this unprecedented event. We appreciate their efforts and the resilience of the entire community.</mj-text>
+
+
+        <mj-text css-class="body-text padding-30-top" font-family="Lustria">While the current need in the world is great, the Academy is also grappling with new challenges. We need your continued support and I ask you to please consider a gift today. Whether you have spent time at the Academy as a Fellow, Resident, Visiting Artist/Scholar, or friend — watched the livestream of <em>Conversation/Conversazioni</em>, attended an exhibition or performance, or used the library or archives for research — you understand this institution’s unique value.
+        </mj-text>
+
+        <mj-text css-class="body-text padding-30-top" font-family="Lustria">The Academy helps ensure the continuity of intellectual and creative output from the many Fellows who have lived and worked in Rome. In these difficult times, we are reminded of the importance of community and the greater impact of ideas.</mj-text>
+
+        <mj-text css-class="body-text padding-30-top" font-family="Lustria">We wish you and your families safe haven and good health in the days ahead.</mj-text>
+
+        <mj-text css-class="body-text padding-30-top" font-family="Lustria">
+          Sincerely,</mj-text>
+
+        <mj-text css-class="body-text" font-family="Lustria">
+          Mark Robbins, FAAR’97
+          <mj-raw>
+            <br>
+          </mj-raw>
+          President and CEO</mj-text>
+        <mj-text css-class="body-text" font-family="Lustria">
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="section">
+      <mj-column>
+
+        <mj-text css-class="caption padding-30-top">
+
+          <mj-raw>
+            Images:
+            1. Guest with <em>Conversations/Conversazioni</em> speakers Yto Barrada and
+            Sanford Biggers at Pace Gallery in New York, October 2019; 2. Performance of
+            <em>Four Scenes from Philoktetes by John Jesurun</em>, an adaptation of scenes
+            from an ancient Greek play by Sophocles for <em>Cinque Mostre</em>, February 2020
+            (photo: Giorgio Benni); 3. Lunch with newly arrived Fellows in the Cortile,
+            September 2019 (photo: Mark Robbins); 4. Fellows at an underground marble quarry
+            on a fall trip to Carrara, October 2019 (photo: John Suvannavejh); 5. Lynne
+            Lancaster (2002 Fellow), AAR Mellon Professor for the Humanities, leads a Walk and
+            Talk (photo: John Suvannavejh); 6. Samiya Bashir installs her work <em>I Hope This
+              Helps</em> for&nbsp;<em>Cinque Mostre</em>, February 2020 (photo: Giorgio
+            Benni)
+          </mj-raw>
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="padding-30-top">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="black" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="padding-30-top margin-0-15">
+      <mj-column css-class="">
+        <mj-image href="https://support.aarome.org/emergency-fund" src="https://s3-eu-west-1.amazonaws.com/cdn.aarome.org/html-emails/images/042020-aar-125.png"></mj-image>
+      </mj-column>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="padding-30-top">
+      <mj-column>
+
+        <mj-image href="https://" src="https://support.aarome.org/image/american-academy-in-rome/social-facebook.png" width="20px" height="auto" padding-left: "10px" css-class="align-left"></mj-image>
+
+      </mj-column>
+      <mj-column>
+
+        <mj-image href="https://" src="https://support.aarome.org/image/american-academy-in-rome/social-twitter.png" width="20px" height="auto" padding-left: "10px" css-class="align-left"></mj-image>
+
+      </mj-column>
+
+      <mj-column>
+
+        <mj-image href="https://" src="https://support.aarome.org/image/american-academy-in-rome/social-instagram.png" width="20px" height="auto" padding-left: "10px" css-class="align-left"></mj-image>
+
+      </mj-column>
+
+      <mj-column>
+
+        <mj-image href="https://" src="https://support.aarome.org/image/american-academy-in-rome/social-shop.png" width="20px" height="auto" padding-left: "10px" css-class="align-left"></mj-image>
+
+      </mj-column>
+    </mj-section>
+
+
+
+
+
+
+  </mj-body>
+</mjml>
